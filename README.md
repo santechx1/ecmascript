@@ -1,2 +1,2 @@
-# ecmascript
+# ECMAScript
 ECMAScript specification study
